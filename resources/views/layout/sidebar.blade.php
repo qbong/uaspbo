@@ -14,7 +14,7 @@
         <img src="dist/img/user.png" class="img-circle elevation-2" alt="User Image">
       </div>
       <div class="info">
-        <a href="{{ asset('') }}" class="d-block">aldy septyan</a>
+        <a href="{{ asset('') }}" class="d-block">MUHAMAD ILHAM</a>
       </div>
     </div>
 
